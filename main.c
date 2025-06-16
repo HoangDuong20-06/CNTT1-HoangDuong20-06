@@ -10,7 +10,6 @@ int loop(int n) {
     }
     return total;
 }
-
 // Cách 2: Dùng công thức
 // Độ phức tạp thời gian: O(1)
 // Độ phức tạp không gian: O(1)
